@@ -1,0 +1,5 @@
+member1=("Alice",25,"123 Maple street","XYZ University")
+member2=("Bob",30,"456 Oak Avenue","ABC College")
+all_members=member1+member2
+print("concatenated Tuples:")
+print(all_members)
