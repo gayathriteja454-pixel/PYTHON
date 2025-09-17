@@ -1,0 +1,4 @@
+a={"Name":"Gayathri","CGPA":7.8}
+a["dept"]="CSE"
+a["CGPA"]=9.0
+print(a)
