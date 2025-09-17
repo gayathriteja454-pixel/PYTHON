@@ -1,0 +1,3 @@
+stu=["Gayathri","Gowthami","Nagendra","Karthik","Rose"]
+a={i:stu[i-1] for i in range(1,6)}
+print(a)
